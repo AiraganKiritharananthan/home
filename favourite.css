@@ -1,0 +1,372 @@
+/*Set the background color for the body*/
+body{
+	background-color:BlanchedAlmond;
+}
+
+.background{
+	position:relative;
+	text-align: center;
+	color: white;
+}
+
+/*Format the links along the top-right side of the webpage*/
+
+/*Format the home page*/
+#home{
+	position:absolute;
+	top:30px;
+	right:515px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the favourites page*/
+#favourite{
+	position:absolute;
+	top:30px;
+	right:410px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the hobbies link*/
+#hobbies{
+	position:absolute;
+	top:30px;
+	right:320px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the awards link*/
+#awards{
+	position:absolute;
+	top:30px;
+	right:230px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the Reference link*/
+#reference{
+	position:absolute;
+	top:30px;
+	right:120px;
+	color:white;
+	font-size:22px;
+}
+
+
+/*Change the color of the links*/
+a:link{
+	color:white;
+	font-size:22px
+}	
+
+a:visited{
+	color:white;
+}
+
+a:hover{
+	color:BlanchedAlmond;
+	font-size:23px;
+}
+
+a:active{
+	color:BlanchedAlmond;
+}
+
+
+/*Format the title*/
+.title{
+	position:absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size:75px;	
+}
+/*Format the Introduction Background*/
+.beigebackground{
+	position:relative;
+	text-align:center;
+	color:black;
+}
+
+/*Format the introduction heading*/	
+#intro{
+	position:absolute;
+	top: 50px;
+	left: 20%;
+	font-size:28px;
+
+	
+}
+/*Format the introduction writing*/
+#intro1{
+	position:absolute;
+	top: 105px;
+	left: 22%;
+	font-size:21px;
+}
+
+#intro2{
+	position:absolute;
+	top: 130px;
+	left: 22%;
+	font-size:21px;
+
+}
+
+/*Introduction Picture*/
+#intropic{
+	position:absolute;
+	top: 25px;
+	left:55%;
+	
+}
+
+/*Introduciton picture Citation*/
+#intropic_cite{
+	position:absolute;
+	top: 195px;
+	left:55%;
+	font-size:15px;
+	font-style:italic;
+}
+
+/*Format the Favourite Sport Section*/
+
+/*Format the Favourite Sport Heading*/
+#sport{
+	position:absolute;
+	top: 91%;
+	left: 42%;
+	font-size:24px;
+}
+
+/*Format the Favourite Sport Writing*/
+#sport1{
+	position:absolute;
+	top: 96%;
+	left: 46%;
+	font-size:21px;
+}
+
+#sport2{
+	position:absolute;
+	top: 99%;
+	left: 46%;
+	font-size:21px;
+}
+
+#sport3{
+	position:absolute;
+	top: 101.5%;
+	left: 46%;
+	font-size:20px;
+}
+
+/*Format the Cricket Information Link*/
+#cricketinfo{
+	color:navy;
+	font-size:19px;
+}
+
+#cricketinfo:hover{
+	font-size:20px;
+	background-color:BlanchedAlmond;
+}
+
+/*Format the Favourite Sport Image*/
+#cricketpic{
+	position:absolute;
+	top: 90%;
+	left: 20%;
+	
+}
+
+/*Favourite Sport Citation*/
+#cricketpic_cite{
+	position:absolute;
+	top: 109%;
+	left:20%;
+	font-size:12px;
+	font-style:italic;
+}
+
+
+/*Format the Favourtie Song Section*/
+
+/*Format the Favourite Song Header*/
+#song{
+	position:absolute;
+	top: 120%;
+	left: 20%;
+	font-size:24px;
+}
+/*Format the Favourite Song Writing*/
+#song1{
+	position:absolute;
+	top: 125%;
+	left: 22%;
+	font-size:21px;
+}
+
+/*List the song names*/
+#songname{
+	position:absolute;
+	top: 130%;
+	left: 22%;
+	font-size:20px;
+	font-weight:bold;
+}
+/*Continue Formatting the writing*/
+#song2{
+	position:absolute;
+	top: 138%;
+	left: 22%;
+	font-size:20px;
+}
+
+
+/*Embed the Favourite Song Video(No Role Modelz*/
+#norole{
+	position:absolute;
+	top: 113%;
+	left: 60%;
+}
+
+/*Embed the Favourtie Song Video(Rainy Day)*/
+#rainyday{
+	position:absolute;
+	top: 129%;
+	left: 60%;
+}
+/*Favourite Food Section*/
+
+/*Favourite Food Heading*/
+#food{
+	position:absolute;
+	top: 150%;
+	left: 42%;
+	font-size:24px;
+}
+
+/*Favourite Food Writing*/
+#food1{
+	position:absolute;
+	top: 155%;
+	left: 44%;
+	font-size:21px;
+}
+
+#food2{
+	position:absolute;
+	top: 158%;
+	left: 44%;
+	font-size:21px;
+}
+
+#food3{
+	position:absolute;
+	top: 161%;
+	left: 44%;
+	font-size:21px;
+}
+
+/*Favourite Food Image*/
+#foodpic{
+	position:absolute;
+	top: 149%;
+	left: 20%;
+}
+
+/*Favourite Food Citation*/
+#foodpic_cite{
+	position:absolute;
+	top: 168%;
+	left:20%;
+	font-size:12px;
+	font-style:italic;
+}
+
+/*Favourite Subject Section*/
+
+/*Favourite Subject Heading*/
+#subject{
+	position:absolute;
+	top: 175%;
+	left: 20% ;
+	font-size:24px;
+}
+
+/*Favourite Subject Writing*/
+#subject1{
+	position:absolute;
+	top: 180%;
+	left: 22%;
+	font-size:21px;
+}
+
+#subject2{
+	position:absolute;
+	top: 183%;
+	left: 22%;
+	font-size:21px;
+}
+
+#subject3{
+	position:absolute;
+	top: 186%;
+	left: 22%;
+	font-size:21px;
+}
+
+/*Favourite Subject Picture*/
+#subjectpic{
+	position:absolute;
+	top: 173%;
+	left: 60%;
+	
+}
+
+/*Favourite Subject Citation*/
+#subjectpic_cite{
+	position:absolute;
+	top: 193%;
+	left:60%;
+	font-size:12px;
+	font-style:italic;
+}
+
+/*Format the bottom background*/
+#bottom_background{
+	position:relative;
+	text-align: center;
+	top:70%;
+	color: white;
+}
+/*Format the to the top internal link*/
+#top_link{
+	position:absolute;
+	top:50%;
+	left:42.5%;
+	color:white;
+	font-size:12px;
+}
+
+/*Format the validation links*/
+
+/*HTML Validator*/
+#htmlvalid{
+	position:absolute;
+	top:50%;
+	left:5%;
+}
+
+/*CSS Validator*/
+#cssvalid{
+	position:absolute;
+	top:50%;
+	left:15%;
+}

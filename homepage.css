@@ -1,0 +1,386 @@
+/*Format the homepage here*/
+
+/*Set the background color*/
+body{
+	background-color:BlanchedAlmond;
+}
+
+/*Format the links to another webpages*/
+.background{
+	position:relative;
+	text-align: center;
+	color: white;
+}
+
+
+/*Format the links along the top-right side of the webpage*/
+/*Format the home page*/
+#home{
+	position:absolute;
+	top:30px;
+	right:515px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the favourites page*/
+#favourite{
+	position:absolute;
+	top:30px;
+	right:410px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the hobbies link*/
+#hobbies{
+	position:absolute;
+	top:30px;
+	right:320px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the awards link*/
+#awards{
+	position:absolute;
+	top:30px;
+	right:230px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the Reference link*/
+#reference{
+	position:absolute;
+	top:30px;
+	right:120px;
+	color:white;
+	font-size:22px;
+}
+
+
+/*Change the color of the links*/
+a:link{
+	color:white;
+	font-size:22px
+}	
+
+a:visited{
+	color:white;
+}
+
+a:hover{
+	color:BlanchedAlmond;
+	font-size:23px;
+}
+
+a:active{
+	color:BlanchedAlmond;
+}
+
+h2{
+	color:black;
+	left:50%;
+}
+
+/*Format the title*/
+.title{
+	position:absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size:75px;	
+}
+
+
+
+/*Format the Introduction Section*/
+
+/*Format the beige introduction background*/
+.beigebackground{
+	position:relative;
+	text-align:center;
+	color:black;
+}
+/*Format the Introduction heading*/
+#head{
+	position:absolute;
+	top:50px;
+	left:20%;
+	color:black;
+	font-size:23px;
+}
+/*Format the Introduction information*/
+#info1{
+	position:absolute;
+	top:90px;
+	left:22%;
+	color:black;
+	font-size:21px;
+
+}
+
+#info2{
+	position:absolute;
+	top:115px;
+	left:22%;
+	color:black;
+	font-size:21px;
+}
+
+#info3{
+	position:absolute;
+	top:140px;
+	left:22%;
+	color:black;
+	font-size:21px;
+}
+
+/*Introduction Image*/
+.intropic{
+	position:absolute;
+	top:56%;
+	left:67%;
+}
+
+
+/*Introduction Citation*/
+#intropic_cite{
+	position:absolute;
+	top:83%;
+	left:52%;
+	font-size:14px;
+}
+
+/*Previous Schools*/
+/*Previous Schools Heading*/
+#schools{
+	position:absolute;
+	top:95%;
+	left:22%;
+	font-size:24px;
+}
+
+/*School 1 Section*/
+
+/*School 1 Heading*/
+#school1{
+	position:absolute;
+	top:102%;
+	left:27%;
+	font-size:21px;
+}
+
+/*School 1 Writing*/
+#school1_1{
+	position:absolute;
+	top:106%;
+	left:31%;
+	font-size:19px;
+}
+
+#school1_2{
+	position:absolute;
+	top:109%;
+	left:31%;
+	font-size:19px;
+}
+
+#school1_3{
+	position:absolute;
+	top:112%;
+	left:31%;
+	font-size:19px;
+}
+
+
+
+/*School 2 Heading*/
+#school2{
+	position:absolute;
+	top:120%;
+	left:27%;
+	font-size:21px;
+}
+
+/*School 2 Writing*/
+#school2_1{
+	position:absolute;
+	top:124%;
+	left:31%;
+	font-size:19px;
+}
+
+#school2_2{
+	position:absolute;
+	top:127%;
+	left:31%;
+	font-size:19px;
+}
+
+#school2_3{
+	position:absolute;
+	top:130%;
+	left:31%;
+	font-size:19px;
+}
+
+
+/*School 2 Image*/
+#school2pic{
+	position:absolute;
+	top:118%;
+	left:67%;
+}
+
+/*School 2 Image Citation*/
+#school2_cite{
+	position:absolute;
+	top:138%;
+	left:61%;
+	font-size:12px;
+}
+
+
+/*School 3 Heading*/
+#school3{
+	position:absolute;
+	top:138%;
+	left:27%;
+	font-size:21px;
+}
+
+/*School 3 Writing*/
+#school3_1{
+	position:absolute;
+	top:142%;
+	left:31%;
+	font-size:19px;
+}
+
+#school3_2{
+	position:absolute;
+	top:145%;
+	left:31%;
+	font-size:19px;
+}
+
+#school3_3{
+	position:absolute;
+	top:148%;
+	left:31%;
+	font-size:19px;
+}
+
+
+
+
+/*School 4 Heading*/
+#school4{
+	position:absolute;
+	top:156%;
+	left:27%;
+	font-size:21px;
+}
+
+/*School 4 Writing*/
+#school4_1{
+	position:absolute;
+	top:160%;
+	left:31%;
+	font-size:19px;
+}
+
+#school4_2{
+	position:absolute;
+	top:163%;
+	left:31%;
+	font-size:19px;
+}
+
+#school4_3{
+	position:absolute;
+	top:166%;
+	left:31%;
+	font-size:19px;
+}
+
+
+/*School 4 Image*/
+#school4pic{
+	position:absolute;
+	top:155%;
+	left:67%;
+}
+
+/*School 4 Image Citation*/
+#school4_cite{
+	position:absolute;
+	top: 175%;
+	left:61%;
+	font-size:12px;
+}
+
+/*School 5 Heading*/
+#school5{
+	position:absolute;
+	top:176%;
+	left:27%;
+	font-size:21px;
+}
+
+/*School 5 Writing*/
+#school5_1{
+	position:absolute;
+	top:180%;
+	left:31%;
+	font-size:19px;
+}
+
+#school5_2{
+	position:absolute;
+	top:183%;
+	left:31%;
+	font-size:19px;
+}
+
+#school5_3{
+	position:absolute;
+	top:186%;
+	left:31%;
+	font-size:19px;
+}
+
+
+/*Format the bottom background*/
+#bottom_background{
+	position:relative;
+	text-align: center;
+	top:70%;
+	color: white;
+}
+/*Format the to the top internal link*/
+#top_link{
+	position:absolute;
+	top:50%;
+	left:42.5%;
+	color:white;
+	font-size:12px;
+}
+
+/*Format the validation links*/
+
+/*HTML Validator*/
+#htmlvalid{
+	position:absolute;
+	top:50%;
+	left:5%;
+}
+
+/*CSS Validator*/
+#cssvalid{
+	position:absolute;
+	top:50%;
+	left:15%;
+}

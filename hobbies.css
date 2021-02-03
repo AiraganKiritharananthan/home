@@ -1,0 +1,304 @@
+/*Format the hobbies page*/
+
+body{
+	background-color:BlanchedAlmond;
+}
+
+.background{
+	position:relative;
+	text-align: center;
+	color: white;
+}
+
+
+/*Format the links along the top-right side of the webpage*/
+
+/*Format the home page*/
+#home{
+	position:absolute;
+	top:30px;
+	right:515px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the favourites page*/
+#favourite{
+	position:absolute;
+	top:30px;
+	right:410px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the hobbies link*/
+#hobbies{
+	position:absolute;
+	top:30px;
+	right:320px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the awards link*/
+#awards{
+	position:absolute;
+	top:30px;
+	right:230px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the Reference link*/
+#reference{
+	position:absolute;
+	top:30px;
+	right:120px;
+	color:white;
+	font-size:22px;
+}
+
+
+/*Change the color of the links*/
+a:link{
+	color:white;
+	font-size:22px
+}	
+
+a:visited{
+	color:white;
+}
+
+a:hover{
+	color:BlanchedAlmond;
+	font-size:23px;
+}
+
+a:active{
+	color:BlanchedAlmond;
+}
+
+h2{
+	color:black;
+	left:50%;
+}
+
+/*Format the title*/
+.title{
+	position:absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size:75px;	
+}
+
+/*Format the Introdcution Section*/
+
+/*Format the Introduciton Background*/
+.beigebackground{
+	position:relative;
+	text-align:center;
+	color:black;
+}
+
+/*Introduction Section*/
+
+/*Format the Introduction Heading*/
+#intro{
+	position:absolute;
+	top: 50px;
+	left: 20%;
+	font-size:28px;
+}
+
+/*Introduction Writing*/
+#intro1{
+	position:absolute;
+	top: 105px;
+	left: 22%;
+	font-size:21px;
+}
+
+#intro2{
+	position:absolute;
+	top: 130px;
+	left: 22%;
+	font-size:21px;
+}
+
+#intro3{
+	position:absolute;
+	top: 155px;
+	left: 22%;
+	font-size:21px;
+}
+
+
+/*Introduction Image*/
+.intropic{
+	position:absolute;
+	top:56%;
+	left:67%;
+}
+/*Image Citation*/
+#intropic_cite{
+	font-style:italic;
+	position:absolute;
+	top: 85%;
+	left:63%;
+	font-size:15px;
+}
+
+/*Chess History Section*/
+
+/*Chess History Heading*/
+#chesshistory{
+	position:absolute;
+	top: 100%;
+	left: 20%;
+	font-size:28px;;
+}
+
+/*Chess History Writing*/
+#chesshistory1{
+	position:absolute;
+	top: 107%;
+	left: 22%;
+	font-size:20px;
+}
+
+/*Format the Chess Link*/
+#chesslink{
+	color:navy;
+	font-size:19px;
+}
+
+#chesslink:hover{
+	font-size:20px;
+	background-color:BlanchedAlmond;
+}
+
+#chesslink1{
+	color:navy;
+	font-size:19px;
+}
+
+#chesslink1:hover{
+	font-size:20px;
+	background-color:BlanchedAlmond;
+}
+
+/*Chess History Writing*/
+#chesshistory2{
+	position:absolute;
+	top: 110%;
+	left: 22%;
+	font-size:19px;
+}
+#chesshistory3{
+	position:absolute;
+	top: 116%;
+	left: 22%;
+	font-size:19px;
+}
+
+#chesshistory4{
+	position:absolute;
+	top: 135%;
+	left: 24%;
+	font-size:18px;
+}
+
+/*Format the table about chess players*/
+table, th,td{
+	border:1px solid black;
+}
+
+table{
+	position:absolute;
+	top: 123%;
+	left: 24%;
+}
+
+/*Chess History Image*/
+
+/*Image Citation*/
+
+/*Chess As A Hobby Section*/
+
+/*Chess As A Hobby Heading*/
+#hobbychess{
+	position:absolute;
+	top:143%;
+	left:34%;
+	font-size:24px;
+}
+
+/*Chess As A Hobby Writing*/
+#hobbychess1{
+	position:absolute;
+	top:147%;
+	left:37%;
+	font-size:20px;
+}
+
+#hobbychess2{
+	position:absolute;
+	top:150%;
+	left:37%;
+	font-size:20px;
+}
+
+#hobbychess3{
+	position:absolute;
+	top:153%;
+	left:37%;
+	font-size:20px;
+}
+
+/*Chess As A Hobby Image*/
+.hobbychess_image{
+	position:absolute;
+	top:143%;
+	left:17%;
+}
+/*Chess As A Hobby Image Citation*/
+#hobbychess_cite{
+	font-style:italic;
+	position:absolute;
+	top: 162%;
+	left:17%;
+	font-size:15px;
+}
+
+/*Format the bottom background*/
+#bottom_background{
+	position:relative;
+	text-align: center;
+	top:70%;
+	color: white;
+}
+/*Format the to the top internal link*/
+#top_link{
+	position:absolute;
+	top:50%;
+	left:42.5%;
+	color:white;
+	font-size:12px;
+}
+
+/*Format the validation links*/
+
+/*HTML Validator*/
+#htmlvalid{
+	position:absolute;
+	top:50%;
+	left:5%;
+}
+
+/*CSS Validator*/
+#cssvalid{
+	position:absolute;
+	top:50%;
+	left:15%;
+}

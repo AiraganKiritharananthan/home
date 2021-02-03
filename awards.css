@@ -1,0 +1,346 @@
+
+/*Format the Awards page*/
+/*Set the background color for the body*/
+body{
+	background-color:BlanchedAlmond;
+}
+
+.background{
+	position:relative;
+	text-align: center;
+	color: white;
+}
+
+/*Format the links along the top-right side of the webpage*/
+
+/*Format the home page*/
+.home{
+	position:absolute;
+	top:30px;
+	right:515px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the favourites page*/
+#favourite{
+	position:absolute;
+	top:30px;
+	right:410px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the hobbies link*/
+#hobbies{
+	position:absolute;
+	top:30px;
+	right:320px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the awards link*/
+#awards{
+	position:absolute;
+	top:30px;
+	right:230px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the Reference link*/
+#reference{
+	position:absolute;
+	top:30px;
+	right:120px;
+	color:white;
+	font-size:22px;
+}
+
+
+/*Change the color of the links*/
+a:link{
+	color:white;
+	font-size:22px
+}	
+
+a:visited{
+	color:white;
+}
+
+a:hover{
+	color:BlanchedAlmond;
+	font-size:23px;
+}
+
+a:active{
+	color:BlanchedAlmond;
+}
+
+
+/*Format the title*/
+.title{
+	position:absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size:75px;	
+}
+/*Format the Introduction Background*/
+.beigebackground{
+	position:relative;
+	text-align:center;
+	color:black;
+}
+/*Format the introduction section*/
+
+/*Format the introduction heading*/	
+#intro{
+	position:absolute;
+	top: 50px;
+	left: 20%;
+	font-size:28px;
+
+	
+}
+/*Format the introduction writing*/
+#intro1{
+	position:absolute;
+	top: 105px;
+	left: 22%;
+	font-size:21px;
+}
+
+#intro2{
+	position:absolute;
+	top: 130px;
+	left: 22%;
+	font-size:21px;
+}
+
+.intro3{
+	position:absolute;
+	top: 155px;
+	left: 22%;
+	font-size:21px;
+}
+
+/*Format introduction picture*/
+.intro_pic{
+	position:absolute;
+	top:56%;
+	left:60%;
+}
+/*Format the citation of the award image to show under the image*/
+#intropic_cite{
+	font-style:italic;
+	position:absolute;
+	top: 77%;
+	left:60%;
+	font-size:15px;
+}
+/*Format the graduation section*/
+
+/*Format the graduation header*/
+#grad{
+	position:absolute;
+	top: 96%;
+	left: 20%;
+	font-size:24px;
+	
+}
+
+
+/*Format the graduation award writing*/
+.grad1{
+	position:absolute;
+	top: 101%;
+	left: 22%;
+	font-size:20px;
+
+}
+
+#grad2{
+	position:absolute;
+	top: 104%;
+	left: 22%;
+	font-size:20px;
+
+}
+
+.grad3{
+	position:absolute;
+	top: 107%;
+	left: 22%;
+	font-size:20px;
+
+}
+/*Format the graduation picture*/
+#social{
+	position:absolute;
+	top:96%;
+	left:64%;
+}
+/*Format the MSEO section*/
+
+/*Format the MSEO award header*/
+#mseo{
+	position:absolute;
+	top: 124%;
+	left: 38%;
+	font-size:24px;
+}
+/*Format the MSEO Writing*/
+#mseo1{
+	position:absolute;
+	top: 129%;
+	left: 44%;
+	font-size:20px;
+}
+
+#mseo2{
+	position:absolute;
+	top: 132%;
+	left: 44%;
+	font-size:20px;
+
+}
+
+#mseo3{
+	position:absolute;
+	top: 135%;
+	left: 44%;
+	font-size:20px;
+}
+
+#mseo4{
+	position:absolute;
+	top: 138%;
+	left: 44%;
+	font-size:20px;
+}
+
+/*Format the MSEO Award Picture*/
+#code{
+	position:absolute;
+	top:123%;
+	left:22%;
+}
+
+/*Format the soccer section*/
+
+/*Format the soccer award heading*/
+#soccer{
+	position:absolute;
+	top: 150%;
+	left: 20%;
+	font-size:24px;
+}
+
+/*Format the soccer award writing*/
+#soccer1{
+	position:absolute;
+	top: 156%;
+	left: 22%;
+	font-size:20px;
+}
+
+#soccer2{
+	position:absolute;
+	top: 159%;
+	left: 22%;
+	font-size:20px;
+}
+
+#soccer3{
+	position:absolute;
+	top: 162%;
+	left: 22%;
+	font-size:20px;
+}
+
+#soccer4{
+	position:absolute;
+	top: 165%;
+	left: 22%;
+	font-size:20px;
+}
+
+/*Format the soccer award picture*/
+#soccer5{
+	position:absolute;
+	top:149%;
+	left:64%;
+}
+
+/*Format the music award section*/
+
+/*Format the music award heading*/
+#music{
+	position:absolute;
+	top: 182%;
+	left: 38%;
+	font-size:24px;
+}
+
+/*Format the music award writing*/
+#music1{
+	position:absolute;
+	top: 188%;
+	left: 44%;
+	font-size:20px;
+}
+
+#music2{
+	position:absolute;
+	top: 191%;
+	left: 44%;
+	font-size:20px;
+}
+
+#music3{
+	position:absolute;
+	top: 194%;
+	left: 44%;
+	font-size:20px;
+}
+
+/*Format the music award picture*/
+#music4{
+	position:absolute;
+	top:180%;
+	left:22%;
+}
+
+/*Format the bottom background*/
+#bottom_background{
+	position:relative;
+	text-align: center;
+	top:70%;
+	color: white;
+}
+/*Format the to the top internal link*/
+#top_link{
+	position:absolute;
+	top:50%;
+	left:42.5%;
+	color:white;
+	font-size:12px;
+}
+
+/*Format the validation links*/
+
+/*HTML Validator*/
+#htmlvalid{
+	position:absolute;
+	top:50%;
+	left:5%;
+}
+
+/*CSS Validator*/
+#cssvalid{
+	position:absolute;
+	top:50%;
+	left:15%;
+}

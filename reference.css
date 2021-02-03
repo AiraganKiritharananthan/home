@@ -1,0 +1,292 @@
+/*Set the background color for the body*/
+body{
+	background-color:BlanchedAlmond;
+}
+
+.background{
+	position:relative;
+	text-align: center;
+	color: white;
+}
+
+/*Format the links along the top-right side of the webpage*/
+
+/*Format the home page*/
+#home{
+	position:absolute;
+	top:30px;
+	right:515px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the favourites page*/
+#favourite{
+	position:absolute;
+	top:30px;
+	right:410px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the hobbies link*/
+#hobbies{
+	position:absolute;
+	top:30px;
+	right:320px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the awards link*/
+#awards{
+	position:absolute;
+	top:30px;
+	right:230px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the Reference link*/
+#reference{
+	position:absolute;
+	top:30px;
+	right:120px;
+	color:white;
+	font-size:22px;
+}
+
+
+/*Change the color of the links*/
+a:link{
+	color:white;
+	font-size:22px;
+}	
+
+a:visited{
+	color:white;
+}
+
+a:hover{
+	color:BlanchedAlmond;
+	font-size:23px;
+}
+
+a:active{
+	color:BlanchedAlmond;
+}
+
+
+/*Format the title*/
+.title{
+	position:absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size:75px;	
+}
+
+/*Set the background color for the body*/
+body{
+	background-color:BlanchedAlmond;
+}
+
+.background{
+	position:relative;
+	text-align: center;
+	color: white;
+}
+
+/*Format the links along the top-right side of the webpage*/
+
+/*Format the home page*/
+#home{
+	position:absolute;
+	top:30px;
+	right:515px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the favourites page*/
+#favourite{
+	position:absolute;
+	top:30px;
+	right:410px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the hobbies link*/
+#hobbies{
+	position:absolute;
+	top:30px;
+	right:320px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the awards link*/
+#awards{
+	position:absolute;
+	top:30px;
+	right:230px;
+	color:white;
+	font-size:22px;
+}
+
+/*Format the Reference link*/
+#reference{
+	position:absolute;
+	top:30px;
+	right:120px;
+	color:white;
+	font-size:22px;
+}
+
+
+/*Change the color of the links*/
+a:link{
+	color:white;
+	font-size:22px
+}	
+
+a:visited{
+	color:white;
+}
+
+a:hover{
+	color:BlanchedAlmond;
+	font-size:23px;
+}
+
+a:active{
+	color:BlanchedAlmond;
+}
+
+
+/*Format the title*/
+.title{
+	position:absolute;
+	top: 45%;
+	left: 50%;
+	transform: translate(-50%,-50%);
+	font-size:75px;	
+}
+/*Format the Introduction Background*/
+.beigebackground{
+	position:relative;
+	text-align:center;
+	color:black;
+}
+
+/*Format the Homepage References*/
+/*Format the Homepage Heading*/
+#main{
+	position:absolute;
+	top: 60%;
+	left: 22%;
+}
+
+/*Format the homepage list*/
+.homelist{
+	position:absolute;
+	top: 66%;
+	left: 24%;
+	font-size:19px;
+}
+
+
+/*Format the Favourties Page References*/
+
+/*Format the Favourites Heading*/
+#fav{
+	position:absolute;
+	top: 80%;
+	left: 22%;
+}
+
+/*Format the Favourites List*/
+.favlist{
+	position:absolute;
+	top: 85%;
+	left: 24%;
+	font-size:19px;
+}
+
+/*Format the Favourites List Links*/
+
+.favlink:hover{
+	background-color:navy;
+}
+
+
+
+
+/*Format the Hobby Page References*/
+
+/*Format the Hobby Heading*/
+#hobb{
+	position:absolute;
+	top: 105%;
+	left: 22%;
+}
+
+/*Format the Hobby List*/
+.hoblist{
+	position:absolute;
+	top: 110%;
+	left: 24%;
+	font-size:19px;
+}
+
+
+
+/*Format the Awards Page References*/
+
+/*Format the Awards Heading*/
+#award{
+	position:absolute;
+	top: 120%;
+	left: 22%;
+}
+
+/*Format the Awards List*/
+.awardlist{
+	position:absolute;
+	top: 125%;
+	left: 24%;
+	font-size:19px;
+}
+
+/*Format the bottom background*/
+#bottom_background{
+	position:relative;
+	text-align: center;
+	top:70%;
+	color: white;
+}
+/*Format the to the top internal link*/
+#top_link{
+	position:absolute;
+	top:50%;
+	left:42.5%;
+	color:white;
+	font-size:12px;
+}
+
+/*Format the validation links*/
+
+/*HTML Validator*/
+#htmlvalid{
+	position:absolute;
+	top:50%;
+	left:5%;
+}
+
+/*CSS Validator*/
+#cssvalid{
+	position:absolute;
+	top:50%;
+	left:15%;
+}
